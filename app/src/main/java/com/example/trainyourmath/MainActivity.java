@@ -136,6 +136,7 @@ public class MainActivity extends AppCompatActivity {
         button2 = findViewById(R.id.button2);
         button3 = findViewById(R.id.button3);
         playAgainBtn = findViewById(R.id.playAgainBtn);
+        //test
     }
 }
 
